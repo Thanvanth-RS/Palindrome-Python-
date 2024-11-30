@@ -1,0 +1,1 @@
+This Python script checks if a given string is a palindrome and includes additional features like ignoring spaces, punctuation, and case sensitivity. It also includes functionality to check if a sentence is a palindrome (i.e., considering the whole sentence, excluding spaces and punctuation).
